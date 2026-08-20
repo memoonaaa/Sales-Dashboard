@@ -31,8 +31,7 @@ An interactive **E-Commerce Sales Dashboard** built using **Microsoft Power BI**
 
 ## Files
 
-* `Ecommerce_Sales_Dashboard.pbix` — Power BI dashboard
-* `dashboard-preview.png` — Dashboard preview
+* [E-commerce Sales Dashboard.pbix](E-commerce%20Sales%20Dashboard.pbix) — Power BI dashboard
+* [Dashboard Preview.png](Dashboard%20Preview.png) — Dashboard preview
 
-**Project completed as part of my Data Analytics Internship at Decode Labs.**
 
