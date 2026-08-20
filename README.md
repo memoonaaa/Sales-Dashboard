@@ -25,9 +25,6 @@ An interactive **E-Commerce Sales Dashboard** built using **Microsoft Power BI**
 * Revenue declined from 2023 to 2025.
 * Instagram generated the highest number of orders among referral sources.
 
-## Preview
-
-![Sales Dashboard](dashboard-preview.png)
 
 ## Files
 
